@@ -1,0 +1,3 @@
+- Provide suggestions as comments.
+- Create a new file for the code with the suggested improvements.
+- Create a new Python file where the original code is replaced by the suggested improvements.
